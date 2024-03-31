@@ -71,7 +71,7 @@ banner()
 
 
 # Input target website
-url = input(Fore.BLUE + "Enter Target Website: ")
+url = input(Fore.BLUE + "Enter Target Website : --> Example : example.com")
 print("")
 time.sleep(1)
 print(Fore.GREEN + "Getting IP Address Attacking &&& Accessing &&& Injecting 😀.......")
