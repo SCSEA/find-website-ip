@@ -43,7 +43,7 @@ def banner():
 
 ___________________________________________________________________________
 
-                                                                                                                      >
+                                                                                                                      
 
                    <Program>  Find Website IP  </Program>
 
@@ -57,7 +57,11 @@ ___________________________________________________________________________
 
 
 
-           <Tiktok> tiktok.com/@programmer_boy_2 </Tiktok>
+         <Tiktok> tiktok.com/@programmer_boy_2 </Tiktok>
+
+           
+
+    <Telegram> https://t.me/programmerboy1 </Telegram>
 
 
 
