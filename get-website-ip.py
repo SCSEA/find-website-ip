@@ -86,7 +86,7 @@ for i in range(0, 110, 10):
 try:
     ip_address = socket.gethostbyname(url)
     print(Fore.GREEN + "IP Address Found Successfully")
-    print(Fore.GREEN + "IP Address is:", ip_address)
+    print(Fore.GREEN + "IP Address is:", Fore.GREEN + ip_address)
 except socket.gaierror:
     print(Fore.RED + "Failed to resolve the host")
 
