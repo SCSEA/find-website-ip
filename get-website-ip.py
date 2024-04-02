@@ -255,7 +255,7 @@ def about_me():
     BannerOptions()
     LoadingScreen('Loading Data')
     BannerOptions()
-    about_me_text = Fore.GREEN +"""Assalamu Alaikum, I’m @Yousuf Shafii Muhammad, a self-taught Programmer and Ethical Hacker and Developer Profissional in 100 Programming languages."""
+    about_me_text = Fore.GREEN +"""Assalamu Alaikum, I’m @Saif Ullah, Programmer and Ethical Hacker and Developer and Software-engineer. i know more than 100 Programming languages."""
 
     for i in about_me_text:
         sys.stdout.write(i)
