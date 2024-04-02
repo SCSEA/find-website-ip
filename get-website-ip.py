@@ -238,8 +238,7 @@ def find_ip_address():
     print(Fore.GREEN + "IP Address Founded Successsfully")
     time.sleep(2)
     try:
-        #print(Fore.GREEN + "IP Address is:", socket.gethostbyname(url))
-	print(Fore.GREEN + "IP Address is:", Fore.GREEN+socket.gethostbyname(url))
+        print(Fore.GREEN + "IP Address is:", Fore.GREEN+socket.gethostbyname(url))
     except socket.gaierror:
         print(Fore.RED + f"Failed to resolve the host : {url}")
 #        print(Fore.RED + "Failed to resolve the host")
