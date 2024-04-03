@@ -24,10 +24,8 @@ cd find-website-ip
 
 chmod +x *
 
+pip install requirements.txt
+
 python3 get-website-ip.py
 
-# Follow me Thank you ...
 
-# Donation
-
-If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
