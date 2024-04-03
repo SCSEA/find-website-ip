@@ -12,7 +12,7 @@ But what’s important for you, is to know that servers assign specific IP addre
 
 # Installation
 
-pkg update && pkg upgrade -y
+apt update && apt upgrade -y
 
 pkg install git
 
