@@ -22,10 +22,9 @@ git clone https://github.com/SCSEA/find-website-ip.git
 
 cd find-website-ip
 
-chmod +x *
-
 pip install requirements.txt
 
-python3 get-website-ip.py
+chmod +x * get-website-ip.py
 
+python3 get-website-ip.py
 
