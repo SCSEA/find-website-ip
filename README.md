@@ -24,6 +24,8 @@ cd find-website-ip
 
 pip3 install -r requirements.txt
 
+chmod 777 programmerboy1.py
+
 chmod +x * get-website-ip.py
 
 python3 get-website-ip.py
