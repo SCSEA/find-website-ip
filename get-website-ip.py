@@ -1,7 +1,8 @@
-# Code is here
-# Prophet Muhammad Peace and Blessing Be Upon Him
-#Alhamdulillah
-
+# Code is here.
+# Prophet Muhammad Peace and Blessing Be Upon Him.
+# Alhamdulillah.
+# Version 1.9.
+# This code is foe Educational and Purpose Only...
 
 import os
 import socket
