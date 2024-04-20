@@ -3,3 +3,4 @@ colorama
 pyfiglet
 socket
 time
+tqdm
